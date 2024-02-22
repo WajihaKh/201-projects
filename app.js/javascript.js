@@ -11,16 +11,16 @@ usersName();
 let enjoywatchingmovies = prompt('Do you enjoy watching horror movies?');
 if (enjoywatchingmovies.toLowerCase() === 'yes') {
   // console.log('They are funny to watch!');
-  alert('They are funny to watch!');
+  alert('They are super hilarious!');
 } else {
   alert('They can get boring sometimes');
   // console.log('They can get boring sometimes');
 }
 
-let swim = prompt ('Do you know how you swim?');
+let swim = prompt('Do you know how you swim?');
 if (swim.toLowerCase() === 'yes') {
   // console.log('Good for you!');
-  alert('Good for you!');
+  alert('So cool!');
 } else {
   alert('Thats ok, I also dont know how to swim');
   // console.log('That is ok I also do not know how to swim');
@@ -45,12 +45,12 @@ if (fluentinlanguages.toLowerCase() === 'yes') {
 }
 
 let coffee = prompt('Are you a coffee enthusiast?');
-if(coffee.toLowerCase() === 'yes') {
+if (coffee.toLowerCase() === 'yes') {
   // console.log('Yuck, coffee sucks!');
   alert('Yuck, coffee sucks!');
 } else {
   alert('Lets sip on some caprisun');
-//   console.log('Lets sip on some caprisun');
+  //   console.log('Lets sip on some caprisun');
 }
 // five questions:
 // 1. Do I/you enjoy watching horror movies?
@@ -122,7 +122,7 @@ function guessMyFavouritePet() {
   if (isUserCorrect === false) {
     for (let i = 0; i < favouritepet.length; i++) {
       correctPets += favouritepet[i];
-      if (i !== favouritepet.length -1) {
+      if (i !== favouritepet.length - 1) {
         correctPets += ', ';
       }
     }
