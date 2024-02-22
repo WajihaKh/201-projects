@@ -15,3 +15,6 @@
 [Repository](https://github.com/WajihaKh/201-projects)
 
 ![lab-3-accessibility](./Images/lab-3-accessibility.png)
+
+I was Navigator on: [link-to-the-last-PR-your-partner-made](https://github.com/WajihaKh/201-projects)
+I was Driver on: [link-to-the-last-PR-you-made-as-Navigator](https://github.com/vivianandi/about-me-webpage.git)
