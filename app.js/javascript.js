@@ -11,7 +11,7 @@ usersName();
 let enjoywatchingmovies = prompt('Do you enjoy watching horror movies?');
 if (enjoywatchingmovies.toLowerCase() === 'yes') {
   // console.log('They are funny to watch!');
-  alert('They are funny to watch!')
+  alert('They are funny to watch!');
 } else {
   alert('They can get boring sometimes');
   // console.log('They can get boring sometimes');

@@ -44,11 +44,35 @@ section {
         padding: 3px;
 
     }
-
-    li {
+li {
         font-size: 20px;
         padding: 10px;
         color: #F7FCEF;
         font-style: italic;
-    }
+}
+}
+
+
+
+
+h3 {
+    font-size: 25px;
+    font-style: bold;
+    font-style: oblique;
+    text-decoration: underline;
+    padding: 5px;
+    display: inline;
+    background-color: #C8D2D9;
+    margin: 10px;
+    border: 10px;
+    border-style: double; 
+}
+
+.list3 {
+    display: inline;
+    text-indent: 80px;
+    line-height: 2.0;
+    font-style:italic;
+    color: #C8D2D9;    
+    
 }
